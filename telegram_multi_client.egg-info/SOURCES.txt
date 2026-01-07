@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+telegram_client/__init__.py
+telegram_multi_client/__init__.py
+telegram_multi_client/core.py
+telegram_multi_client.egg-info/PKG-INFO
+telegram_multi_client.egg-info/SOURCES.txt
+telegram_multi_client.egg-info/dependency_links.txt
+telegram_multi_client.egg-info/requires.txt
+telegram_multi_client.egg-info/top_level.txt

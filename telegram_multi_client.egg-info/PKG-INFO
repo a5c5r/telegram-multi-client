@@ -1,0 +1,32 @@
+Metadata-Version: 2.4
+Name: telegram-multi-client
+Version: 2.0.0
+Summary: Telegram Multi-Client Library with Arabic Commands
+Home-page: https://github.com/yourusername/telegram-multi-client
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: telethon>=1.28.5
+Requires-Dist: aiohttp>=3.8.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# Telegram Multi-Client
+
+مكتبة بايثون للتحكم بحسابات تلجرام متعددة بأوامر عربية.
+
+## 📥 التثبيت
+
+```bash
+pip install telegram-multi-client

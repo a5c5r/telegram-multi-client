@@ -1,0 +1,2 @@
+telethon>=1.28.5
+aiohttp>=3.8.0

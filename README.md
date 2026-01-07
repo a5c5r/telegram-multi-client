@@ -1,1 +1,8 @@
-# telegram-multi-client
+# Telegram Multi-Client
+
+مكتبة بايثون للتحكم بحسابات تلجرام متعددة بأوامر عربية.
+
+## 📥 التثبيت
+
+```bash
+pip install telegram-multi-client
